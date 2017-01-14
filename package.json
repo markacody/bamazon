@@ -1,0 +1,16 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon command line store",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mark Cody",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "Bamazon"
+  }
+}
