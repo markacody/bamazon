@@ -1,2 +1,2 @@
 # bamazon
-command line store front
+Command line application imitating an in-store shopping experience
